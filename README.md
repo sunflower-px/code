@@ -1,4 +1,4 @@
 # code
-Just a repository
-one day's study about coding
+Just a repository  
+one day's study about coding   
 continue!!
